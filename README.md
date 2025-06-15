@@ -7,7 +7,7 @@ This is where I build concept exercises for the JS track.
 #### Randomness
 -Docs: Completed
 
--Meta: Create exemplar and design
+-Meta: Create design.md
 
 -Tests: Create
 
