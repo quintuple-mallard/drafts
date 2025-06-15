@@ -10,7 +10,7 @@ Enterprise (registry number NCC-1701) is not the only starship flying around! Wh
 Registry numbers start with the prefix "NCC-" and then use a number from 1000 to 9999 (inclusive).
 
 Implement the randomShipRegistryNumber() function that returns a random starship registry number.
-```
+```javascript
 randomShipRegistryNumber()
 # => "NCC-1947"
 ```
@@ -22,8 +22,7 @@ A stardate is a floating point number. The adventures of the Starship Enterprise
 
 Implement the function randomStardate that returns a floating point number between 41000.0 (inclusive) and 42000.0 (exclusive).
 
-The implementation should use an Erlang function.
-```
+```javascript
 randomStardate()
 # => 41458.15721310934
 ```
@@ -32,7 +31,7 @@ randomStardate()
 The Starship Enterprise encounters many planets in its travels. Planets in the Star Trek universe are split into categories based on their properties. For example, Earth is a class M planet. All possible planetary classes are: D, H, J, K, L, M, N, R, T, and Y.
 
 Implement the randomPlanetClassfunction. It should return one of the planetary classes at random.
-```
+```javascript
 randomPlanetClass()
 # => "K"
 ```
