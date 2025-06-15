@@ -2,19 +2,12 @@
   "authors": [
     "SneakyMallard"
   ],
-  "contributors": [
-    
-  ],
+  "contributors": [],
+  "forked-from": ["elixir/captains-log"]
   "files": {
-    "solution": [
-      "captains-log.js"
-    ],
-    "test": [
-      "captains-log.spec.js"
-    ],
-    "exemplar": [
-      ".meta/exemplar.js"
-    ]
+    "solution": ["captains-log.js"],
+    "test": ["captains-log.spec.js"],
+    "exemplar": [".meta/exemplar.js"]
   },
   "blurb": "Learn about randomness and the Math.random() fuction while helping Mary generate stardates and starship registry numbers for her Star Trek roleplay",
 }
