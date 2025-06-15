@@ -4,6 +4,14 @@
   ],
   "contributors": [],
   "forked-from": ["elixir/captains-log"]
+  "concept": [
+      {
+        "uuid": , // What is a uuid?
+        "slug": "captains-log",
+        "name": "Captain's Log",
+        "concepts": ["randomness"],
+        "prerequisites": ["numbers","arithmetic-operators"]
+      }
   "files": {
     "solution": ["captains-log.js"],
     "test": ["captains-log.spec.js"],
