@@ -12,7 +12,7 @@ Registry numbers start with the prefix "NCC-" and then use a number from 1000 to
 Implement the randomShipRegistryNumber() function that returns a random starship registry number.
 ```javascript
 randomShipRegistryNumber()
-# => "NCC-1947"
+// => "NCC-1947"
 ```
 ### 2. Generate a random stardate
 
@@ -24,7 +24,7 @@ Implement the function randomStardate that returns a floating point number betwe
 
 ```javascript
 randomStardate()
-# => 41458.15721310934
+// => 41458.15721310934
 ```
 ### 3. Generate a random planet
 
@@ -33,5 +33,5 @@ The Starship Enterprise encounters many planets in its travels. Planets in the S
 Implement the randomPlanetClassfunction. It should return one of the planetary classes at random.
 ```javascript
 randomPlanetClass()
-# => "K"
+// => "K"
 ```
