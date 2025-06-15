@@ -35,3 +35,7 @@ Implement the randomPlanetClassfunction. It should return one of the planetary c
 randomPlanetClass()
 // => "K"
 ```
+~~~~exercism/note
+Some of the tests in this exercise check if the output of a function is random by checking if two function calls produce the same output.
+If the only tests your solution fails on start with "returns a random", try running the tests again, and seeing if your solution passes.
+~~~~
