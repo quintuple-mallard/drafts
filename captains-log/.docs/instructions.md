@@ -7,7 +7,7 @@ Help Mary by creating random generators for data commonly appearing in the capta
 
 Enterprise (registry number NCC-1701) is not the only starship flying around! When it rendezvous with another starship, Mary needs to log the registry number of that starship.
 
-Registry numbers start with the prefix "NCC-" and then use a number from 1000 to 9999 (inclusive).
+Registry numbers start with the prefix "NCC-" and then use a number from 1000 to 9999 (both inclusive).
 
 Implement the randomShipRegistryNumber() function that returns a random starship registry number.
 ```javascript
