@@ -1,4 +1,1 @@
-# Some drafts...
-| Exercise      | Status        |
-| ------------- | ------------- |
-| Captain's Log | Complete      |
+# Some drafts for stuff.
