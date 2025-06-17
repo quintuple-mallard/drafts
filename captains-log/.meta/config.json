@@ -6,7 +6,7 @@
   "forked-from": ["java/captains-log"],
   "concept": [
     {
-      "uuid": "",
+      "uuid": "need-to-generate",
       "slug": "captains-log",
       "name": "Captain's Log",
       "concepts": ["randomness"],
