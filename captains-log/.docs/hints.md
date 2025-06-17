@@ -3,7 +3,6 @@
 ## 1. Generate a random starship registry number
   - To generate a random number in the range _min_ (inclusive) to _max_ (exclusive) you can use the snippet `min + Math.random()*(max - min)`.
   - There is a [built in function][floor] for turning a floating point number into an integer.
-  - All registry numbers start with "NCC-", so you will want to hardcode the start, and append the number to it.
 ##  2.Generate a random stardate
  - To generate a random number in the range _min_ (inclusive) to _max_ (exclusive) you can use the snippet `min + Math.random()*(max - min)`.
 ## 3. Generate a random planet
